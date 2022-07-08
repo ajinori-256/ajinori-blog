@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ajinori.f5.si/categories/</loc>
+    <loc>https://ajinori.f5.si/categories/</loc>
     <lastmod>2022-07-09T00:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://ajinori.f5.si/posts/</loc>
+    <loc>https://ajinori.f5.si/posts/</loc>
     <lastmod>2022-07-09T00:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://ajinori.f5.si/tags/</loc>
+    <loc>https://ajinori.f5.si/tags/</loc>
     <lastmod>2022-07-09T00:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://ajinori.f5.si/posts/a0ea9d51e5ea50957fac/</loc>
+    <loc>https://ajinori.f5.si/posts/a0ea9d51e5ea50957fac/</loc>
     <lastmod>2022-07-09T00:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://ajinori.f5.si/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
+    <loc>https://ajinori.f5.si/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2022-07-09T00:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://ajinori.f5.si/categories/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
+    <loc>https://ajinori.f5.si/categories/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2022-07-09T00:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://ajinori.f5.si/</loc>
+    <loc>https://ajinori.f5.si/</loc>
     <lastmod>2022-07-09T00:21:44+09:00</lastmod>
   </url><url>
-    <loc>http://ajinori.f5.si/archives/</loc>
+    <loc>https://ajinori.f5.si/archives/</loc>
   </url>
 </urlset>
