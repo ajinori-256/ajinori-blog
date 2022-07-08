@@ -1,5 +1,5 @@
 
-# tranquilpeak
+# hugo-tranquilpeak-theme
 # Version : 0.5.3-BETA
 # Author : Thibaud Leprêtre
 
@@ -17,8 +17,8 @@ baseURL = "https://ajinori-256.github.io/blog/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "味付け海苔のブログ"
-theme = "tranquilpeak"
-disqusShortname = "tranquilpeak"
+theme = "hugo-tranquilpeak-theme"
+disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -301,7 +301,7 @@ publishDir = "docs"
   # ---------------
   # Comment and uncomment to enable or disable sharing options
   # If you wanna add a sharing option, read user documentation :
-  # tranquilpeak configuration > Theme configuration > sharing-options
+  # hugo-tranquilpeak-theme configuration > Theme configuration > sharing-options
   [[params.sharingOptions]]
     name = "Facebook"
     icon = "fab fa-facebook-square"
@@ -359,7 +359,7 @@ publishDir = "docs"
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "tranquilpeak"
+      shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
       enable = false
       # clientId =
