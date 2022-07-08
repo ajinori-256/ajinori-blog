@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>味付け海苔のブログ</title>
-    <link>https://ajinori-256.github.io/blog/</link>
+    <link>http://ajinori.f5.si/</link>
     <description>Recent content on 味付け海苔のブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 Jul 2022 00:21:44 +0900</lastBuildDate><atom:link href="https://ajinori-256.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 00:21:44 +0900</lastBuildDate><atom:link href="http://ajinori.f5.si/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>このサイトと私について</title>
-      <link>https://ajinori-256.github.io/blog/posts/a0ea9d51e5ea50957fac/</link>
+      <link>http://ajinori.f5.si/posts/a0ea9d51e5ea50957fac/</link>
       <pubDate>Sat, 09 Jul 2022 00:21:44 +0900</pubDate>
       
-      <guid>https://ajinori-256.github.io/blog/posts/a0ea9d51e5ea50957fac/</guid>
+      <guid>http://ajinori.f5.si/posts/a0ea9d51e5ea50957fac/</guid>
       <description>はじめまして、私は味付け海苔です。
 私は電子工作や、プログラミングが趣味の高校一年生です。
 上手ではありません。

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on 味付け海苔のブログ</title>
-    <link>https://ajinori-256.github.io/blog/archives/</link>
+    <link>http://ajinori.f5.si/archives/</link>
     <description>Recent content in Archives on 味付け海苔のブログ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://ajinori-256.github.io/blog/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="http://ajinori.f5.si/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
